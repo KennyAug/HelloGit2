@@ -1,1 +1,3 @@
-# HelloGit2
+# Le projet HelloGit2
+
+## Developpe par C#
